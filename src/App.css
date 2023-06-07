@@ -1,0 +1,18 @@
+.container{
+border: 2px solid black;
+width:fit-content;
+padding: 1rem;
+border-radius: 10px;
+margin: 0 auto;
+}
+h4{
+  display:inline;
+}
+div{
+  margin: 0.5rem 0;
+}
+button{
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
